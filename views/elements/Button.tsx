@@ -1,4 +1,4 @@
-import { JSXElement } from "solid-js";
+import { JSXElement } from 'solid-js';
 
 interface ButtonProps {
     to: string | undefined;
